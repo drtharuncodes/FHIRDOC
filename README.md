@@ -31,3 +31,8 @@
 - Cholesterol
 - Weight/BMI
 - Smoking status
+
+Title: Diabetic Patient Cohort - Clinical Scope
+Status: ✅ Complete
+Assignees: Dr Tharun raj s
+Labels: clinical, data-definition, diabetes
